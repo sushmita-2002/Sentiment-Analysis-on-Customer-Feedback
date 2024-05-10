@@ -42,6 +42,10 @@ Dataset Link : https://drive.google.com/drive/u/0/folders/1Xym22vc-guTMvPGI00vOU
 - Setup:
   1. Go to the frontend/bert directory.
    2. Launch index.html in a web browser.
+
+### Interface 
+![Alt Text](lstm model/static/image.png)
+![Alt Text](bert model/static/image.png)
    
 ## Dependencies
 - Python 3.x
