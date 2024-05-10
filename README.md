@@ -7,17 +7,17 @@ This README provides details about the sentiment analysis models (LSTM and BERT)
 Dataset Link : https://drive.google.com/drive/u/0/folders/1Xym22vc-guTMvPGI00vOUz_hszmB3dPU
 
 ## Models
-1. LSTM Model
+### 1. LSTM Model
 - Description: The LSTM (Long Short-Term Memory) model is a type of recurrent neural network (RNN) designed for sequence prediction tasks, making it suitable for sentiment analysis of text data.
 - Implementation: The LSTM model is implemented using TensorFlow/Keras.
 - Usage: The model takes text inputs and predicts sentiment labels (e.g., positive, negative, neutral).
-2. BERT Model
+### 2. BERT Model
 - Description: BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based language model developed by Google. The BERT model has demonstrated state-of-the-art performance in various NLP tasks, including sentiment analysis.
 - Implementation: We utilize the Hugging Face transformers library to implement the BERT model.
 - Usage: The BERT model accepts text inputs and outputs sentiment predictions with high accuracy.
 
 ## Frontend Applications
-### Frontend for LSTM Model
+### 1. Frontend for LSTM Model
 - Description: We have developed a user-friendly web application interface for interacting with the LSTM sentiment analysis model.
 - Features:
    - Input text box for entering the text to be analyzed.
@@ -26,7 +26,7 @@ Dataset Link : https://drive.google.com/drive/u/0/folders/1Xym22vc-guTMvPGI00vOU
 - Setup:
    1. Navigate to the frontend/lstm directory.
    2. Open index.html in a web browser.
-### Frontend for BERT Model
+### 2. Frontend for BERT Model
 - Description: Similarly, we have created a frontend interface for interacting with the BERT sentiment analysis model.
 - Features:
   - Text input field for entering the text to be analyzed.
