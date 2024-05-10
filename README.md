@@ -6,7 +6,7 @@ This README provides details about the sentiment analysis models (LSTM and BERT)
 ## Table of Contents
 - [Dataset](#Dataset)
 - [Models](#Models)
-- [Frontend Application](#Frontend-Application)
+- [Frontend](#Frontend)
 - [Dependencies](#Dependencies)
 - [Usage](#Usage)
 
@@ -23,7 +23,7 @@ Dataset Link : https://drive.google.com/drive/u/0/folders/1Xym22vc-guTMvPGI00vOU
 - Implementation: We utilize the Hugging Face transformers library to implement the BERT model.
 - Usage: The BERT model accepts text inputs and outputs sentiment predictions with high accuracy.
 
-## Frontend-Applications
+## Frontend
 ### 1. Frontend for LSTM Model
 - Description: We have developed a user-friendly web application interface for interacting with the LSTM sentiment analysis model.
 - Features:
