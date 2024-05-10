@@ -3,6 +3,13 @@
 ## Overview
 This README provides details about the sentiment analysis models (LSTM and BERT) implemented in this project, along with instructions for setting up and running the frontend applications developed for both models.
 
+## Table of Contents
+- [Dataset](#Dataset)
+- [Models](#Models)
+- [Frontend Application](#Frontend Application)
+- Dependencies(#Dependencies)
+- Usage(#Usage)
+
 ## Dataset 
 Dataset Link : https://drive.google.com/drive/u/0/folders/1Xym22vc-guTMvPGI00vOUz_hszmB3dPU
 
