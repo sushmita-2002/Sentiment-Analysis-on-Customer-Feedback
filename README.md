@@ -4,7 +4,7 @@
 This README provides details about the sentiment analysis models (LSTM and BERT) implemented in this project, along with instructions for setting up and running the frontend applications developed for both models.
 
 ## Dataset 
-link : https://drive.google.com/drive/u/0/folders/1Xym22vc-guTMvPGI00vOUz_hszmB3dPU
+Dataset Link : https://drive.google.com/drive/u/0/folders/1Xym22vc-guTMvPGI00vOUz_hszmB3dPU
 
 ## Models
 1. LSTM Model
@@ -20,9 +20,9 @@ link : https://drive.google.com/drive/u/0/folders/1Xym22vc-guTMvPGI00vOUz_hszmB3
 ### Frontend for LSTM Model
 - Description: We have developed a user-friendly web application interface for interacting with the LSTM sentiment analysis model.
 - Features:
--- Input text box for entering the text to be analyzed.
--- Button to trigger the sentiment analysis process.
--- Display of the predicted sentiment label (e.g., positive, negative) based on the input text.
+   - Input text box for entering the text to be analyzed.
+   - Button to trigger the sentiment analysis process.
+   - Display of the predicted sentiment label (e.g., positive, negative) based on the input text.
 Setup:
 Navigate to the frontend/lstm directory.
 Open index.html in a web browser.
