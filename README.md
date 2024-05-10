@@ -44,8 +44,8 @@ Dataset Link : https://drive.google.com/drive/u/0/folders/1Xym22vc-guTMvPGI00vOU
    2. Launch index.html in a web browser.
 
 ### Interface 
-![Alt Text](lstm model/static/image.png)
-![Alt Text](bert model/static/image.png)
+![image](https://github.com/sushmita-2002/Sentiment-Analysis-Model/lstm model/static/image.png)
+![image](https://github.com/sushmita-2002/Sentiment-Analysis-Model/bert model/static/image.png)
    
 ## Dependencies
 - Python 3.x
