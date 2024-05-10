@@ -52,6 +52,4 @@ Dataset Link : https://drive.google.com/drive/u/0/folders/1Xym22vc-guTMvPGI00vOU
 3. Click the button to perform sentiment analysis.
 4. View the predicted sentiment label displayed on the webpage.
 
-## Notes
-The LSTM and BERT models should be trained on appropriate sentiment analysis datasets before deployment.
-Ensure that the frontend applications (index.html files) have necessary CORS (Cross-Origin Resource Sharing) permissions set if interacting with models hosted on a different server.
+
