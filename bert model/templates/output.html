@@ -1,0 +1,120 @@
+<!-- output.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sentiment Analysis Result</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-image: url('static\\listening-sentiment-analysis-feature-img.png');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            overflow: hidden;
+        }
+
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black overlay */
+        }
+
+        .container {
+            position: relative;
+            z-index: 1; /* Ensure the container is above the overlay */
+            max-width: 600px;
+            padding: 30px;
+            background-color: #fff;
+            border-radius: 15px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 30px;
+            font-size: 36px;
+            text-transform: uppercase;
+        }
+
+        .result {
+            margin-top: 30px;
+        }
+
+        .subheading {
+            color: #333;
+            font-size: 24px;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+        }
+
+        .input-text {
+            white-space: pre-wrap;
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 15px;
+            font-size: 18px;
+            margin-bottom: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .sentiment {
+            font-weight: bold;
+            color: #28a745;
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+
+        .score {
+            font-weight: bold;
+            font-size: 24px;
+        }
+        
+        .home-button {
+            margin-top: 20px;
+            text-align: center;
+        }
+        
+        .home-button a {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        
+        .home-button a:hover {
+            background-color: #0056b3;
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="overlay"></div>
+    <div class="container">
+        <h1>Sentiment Analysis Result</h1>
+        <div class="result">
+            
+            <h2 class="subheading">Sentiment:</h2>
+            <p class="sentiment">{{ data.sentiment }}</p>
+            <h2 class="subheading">Confidence Score:</h2>
+            <p class="score">{{ data.score }}</p>
+        </div>
+        
+        <div class="home-button">
+            <a href="/">Home</a>
+        </div>
+    </div>
+</body>
+</html>
