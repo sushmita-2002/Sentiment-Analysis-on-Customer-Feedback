@@ -6,6 +6,7 @@ This README provides details about the sentiment analysis models (LSTM and BERT)
 ## Table of Contents
 - [Dataset](#Dataset)
 - [Models](#Models)
+- [Visual Overview](#Visual)
 - [Frontend](#Frontend)
 - [Dependencies](#Dependencies)
 - [Usage](#Usage)
@@ -42,6 +43,8 @@ Dataset Link : https://drive.google.com/drive/u/0/folders/1Xym22vc-guTMvPGI00vOU
 - **Setup:**
   1. Go to the frontend/bert directory.
    2. Launch index.html in a web browser.
+
+## Visual Overview
 
 ## Dependencies
 - Python 3.x
