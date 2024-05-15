@@ -45,6 +45,10 @@ Dataset Link : https://drive.google.com/drive/u/0/folders/1Xym22vc-guTMvPGI00vOU
    2. Launch index.html in a web browser.
 
 ## Visual Overview
+- Test with Negative Review:
+  1. Home page
+     ![image](https://github.com/sushmita-2002/Sentiment-Analysis-Model/assets/80975689/04287705-b7f7-44d1-af08-044d8791870f)
+
 
 ## Dependencies
 - Python 3.x
