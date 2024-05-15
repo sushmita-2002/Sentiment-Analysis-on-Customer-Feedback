@@ -42,7 +42,6 @@ Dataset Link : https://drive.google.com/drive/u/0/folders/1Xym22vc-guTMvPGI00vOU
 - **Setup:**
   1. Go to the frontend/bert directory.
    2. Launch index.html in a web browser.
-   ![image](https://github.com/sushmita-2002/Sentiment-Analysis-Model/assets/80975689/af29156b-6330-450e-9f3c-fa24eb5c1640)
 
 ## Dependencies
 - Python 3.x
