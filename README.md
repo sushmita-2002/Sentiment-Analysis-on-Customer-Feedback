@@ -49,7 +49,7 @@ Dataset Link : https://drive.google.com/drive/u/0/folders/1Xym22vc-guTMvPGI00vOU
   
   ![image](https://github.com/sushmita-2002/Sentiment-Analysis-Model/assets/80975689/04287705-b7f7-44d1-af08-044d8791870f)
 
-   <center>Home page</center>
+   <p align='center'>Home page</p>
 
   ![image](https://github.com/sushmita-2002/Sentiment-Analysis-Model/assets/80975689/ae4c1a97-ff42-459b-86fc-946d836af240)
 
