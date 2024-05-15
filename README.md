@@ -47,7 +47,7 @@ Dataset Link : https://drive.google.com/drive/u/0/folders/1Xym22vc-guTMvPGI00vOU
 ## Visual Overview
 - Test with Negative Review:
 <p align="center">
-    <img width="200" src="![image](https://github.com/sushmita-2002/Sentiment-Analysis-Model/assets/80975689/04287705-b7f7-44d1-af08-044d8791870f)
+    <img width="200" src="https://github.com/sushmita-2002/Sentiment-Analysis-Model/assets/80975689/04287705-b7f7-44d1-af08-044d8791870f
 " alt="Home page">
 </p>
   ![image](https://github.com/sushmita-2002/Sentiment-Analysis-Model/assets/80975689/04287705-b7f7-44d1-af08-044d8791870f)
