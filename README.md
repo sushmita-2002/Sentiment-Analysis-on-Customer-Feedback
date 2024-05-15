@@ -6,8 +6,8 @@ This README provides details about the sentiment analysis models (LSTM and BERT)
 ## Table of Contents
 - [Dataset](#Dataset)
 - [Models](#Models)
-- [Visual Overview](#Visual)
 - [Frontend](#Frontend)
+- [Visual Overview](#Visual-Overview)
 - [Dependencies](#Dependencies)
 - [Usage](#Usage)
 
