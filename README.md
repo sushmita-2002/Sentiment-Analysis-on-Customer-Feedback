@@ -51,6 +51,13 @@ Dataset Link : https://drive.google.com/drive/u/0/folders/1Xym22vc-guTMvPGI00vOU
 
   ![positive review output](https://github.com/sushmita-2002/Sentiment-Analysis-Model/assets/80975689/b60bd774-a387-401e-82c4-1c0c6aabcd30)
 
+- Test with negative review:
+
+  ![negative review](https://github.com/sushmita-2002/Sentiment-Analysis-Model/assets/80975689/f171974f-bd88-4cad-874c-3cdc955c2664)
+  
+  ![negative review output](https://github.com/sushmita-2002/Sentiment-Analysis-Model/assets/80975689/e9e12bd4-5d14-4cad-9523-ea2040979c87)
+
+
 ## Dependencies
 - Python 3.x
 - TensorFlow (for LSTM model)
