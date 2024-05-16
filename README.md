@@ -46,8 +46,10 @@ Dataset Link : https://drive.google.com/drive/u/0/folders/1Xym22vc-guTMvPGI00vOU
 
 ## Visual Overview
 - Test with positve review:
+  
   ![positive review](https://github.com/sushmita-2002/Sentiment-Analysis-Model/assets/80975689/50a965d8-cc9e-43dc-a917-5d556f1ec8b6)
-![positive review output](https://github.com/sushmita-2002/Sentiment-Analysis-Model/assets/80975689/b60b
+
+  ![positive review output](https://github.com/sushmita-2002/Sentiment-Analysis-Model/assets/80975689/b60bd774-a387-401e-82c4-1c0c6aabcd30)
 
 ## Dependencies
 - Python 3.x
